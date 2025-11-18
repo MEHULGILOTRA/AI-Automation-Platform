@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+streamlit==1.33.0
+langchain-google-genai
+langchain
+pypdf
+faiss-cpu
+google-api-python-client
+langchain_community
+python-multipart
+protobuf==4.25.3
+google-auth-httplib2
+google-auth-oauthlib
+google-generativeai>=0.5.0
+sentence-transformers # For Hugging Face
+langgraph
+langchain-core
+chromadb
+python-dotenv
+langsmith
